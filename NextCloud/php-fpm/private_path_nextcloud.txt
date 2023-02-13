@@ -1,0 +1,12 @@
+Usually, you will find some or all of the environment variables already in the file, but commented out like this:
+
+;env[HOSTNAME] = $HOSTNAME
+;env[PATH] = /usr/local/bin:/usr/bin:/bin
+;env[TMP] = /tmp
+;env[TMPDIR] = /tmp
+;env[TEMP] = /tmp
+Uncomment the appropriate existing entries. Then run printenv PATH to confirm your paths, for example:
+
+$ printenv PATH
+/home/user/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:
+/sbin:/bin:/

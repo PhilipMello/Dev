@@ -1,0 +1,7 @@
+How to download Google Drive file using WGET
+
+wget -c --no-check-certificate "URL-GOOGLE-DRIVE" -O filename.extension
+
+wget --no-check-certificate "https://docs.google.com/uc?export=download&id=XXXXXXXXXXXXXXXXXXXXXXXX" -O video.mp4
+
+wget --no-check-certificate "https://docs.google.com/uc?export=download&id=XXXXXXXXXXXXXXXXXXXXXXXX" -O files.zip

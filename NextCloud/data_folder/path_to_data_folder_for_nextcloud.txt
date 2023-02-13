@@ -1,0 +1,4 @@
+Create a folder outside of your nextcloud path for data.
+Exemple: /www/nextcloud_data_folder/
+
+Wrong path: your-nextrcloud-domain.com/data
