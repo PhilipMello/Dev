@@ -3,20 +3,21 @@
 # Dev Editor
 editor="nano"
 
-# Variables
+# Date
 current_date=$(date +'%b %d, %Y')
 
 # Header
 header="#!/usr/bin/env bash
 # --------------------------------------------------------------
-# Script     :
-# Description:
+# Script     : Script Creator
+# Description: Script to create Scripts
 # Version    : 0.1
 # Date       : $current_date
 # Author     : Philip Mello <philipmello@live.com>
 # License    : MIT
 # --------------------------------------------------------------
-# How to use:
+# How to use: Type ./create-script.sh NAME-OF-SCRIPT (WITH EXTENSION OR NOT)
+# Exemples: ./create-script.sh my-new-file.sh OR ./create-script.sh my-new.file.txt
 # --------------------------------------------------------------
 "
 
