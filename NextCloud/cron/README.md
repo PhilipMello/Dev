@@ -22,7 +22,7 @@ User=www
 ExecStart=/usr/bin/php -f /var/www/YOUR-DOMAIN-HERE/cron.php
 KillMode=process
 ```
-**Replace the user www-data with the user of your http server and /var/www/nextcloud/cron.php with the location of cron.php in your nextcloud directory.**
+**Replace the user www-data with the user of your http server and /var/www/YOUR-DOMAIN-HERE/cron.php with the location of cron.php in your nextcloud directory.**
 
 <br>
 
