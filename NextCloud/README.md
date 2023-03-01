@@ -12,3 +12,5 @@
 
 # 🔧 Configuration
 [Cron](https://github.com/PhilipMello/Dev/tree/main/NextCloud/cron)
+
+[php-fpm](https://github.com/PhilipMello/Dev/tree/main/NextCloud/php-fpm)
