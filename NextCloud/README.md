@@ -8,6 +8,10 @@
 ---
 
 # 📚 Documentation
+[NexCloud Manual](https://docs.nextcloud.com/server/latest/admin_manual/index.html)
+
+[Background jobs](https://docs.nextcloud.com/server/latest/admin_manual/configuration_server/background_jobs_configuration.html)
+
 # 🐛 Bugfix
 
 # 🔧 Configuration
