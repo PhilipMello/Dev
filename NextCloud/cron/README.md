@@ -7,7 +7,7 @@ Go to /etc/systemd/system/
 cd /etc/systemd/system/
 ```
 
-Create #1 file: nextcloudcron.service
+Create #1 file: `nextcloudcron.service`
 ```
 nano nextcloudcron.service
 ```
@@ -26,7 +26,7 @@ KillMode=process
 
 <br>
 
-Create #2 file: nextcloudcron.timer
+Create #2 file: `nextcloudcron.timer`
 ```
 [Unit]
 Description=Run Nextcloud cron.php every 5 minutes
