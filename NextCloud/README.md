@@ -5,6 +5,8 @@
 </div>
 <br>
 
+![GitHub repo file count (custom path)](https://img.shields.io/github/directory-file-count/philipmello/Dev/NextCloud)
+
 ---
 
 # 📚 Documentation
