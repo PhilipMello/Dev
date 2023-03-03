@@ -5,6 +5,16 @@
 </div>
 <br>
 
+[NextCloud Install Instructions](https://nextcloud.com/install/#instructions-server)
+
+[NextCloud Changelog](https://nextcloud.com/changelog/#latest)
+
+[NextCloud Web Installer](https://download.nextcloud.com/server/installer/setup-nextcloud.php)
+
+[NextCloud Latest Zip File](https://download.nextcloud.com/server/releases/latest.zip)
+
+---
+
 ![GitHub repo file count (custom path)](https://img.shields.io/github/directory-file-count/philipmello/Dev/NextCloud)
 
 ---
