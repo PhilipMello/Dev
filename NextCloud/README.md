@@ -28,7 +28,9 @@
 
 [NextCloud Enable Opcache](https://docs.nextcloud.com/server/25/admin_manual/installation/server_tuning.html#enable-php-opcache)
 
-[Country Codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Decoding_table)
+[NextCloud Default Phone Region](https://docs.nextcloud.com/server/25/admin_manual/configuration_server/config_sample_php_parameters.html)
+
+[Country Codes WiKi](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Decoding_table)
 
 # 🐛 Bugfix
 
