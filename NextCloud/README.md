@@ -24,6 +24,12 @@
 
 [Background jobs](https://docs.nextcloud.com/server/latest/admin_manual/configuration_server/background_jobs_configuration.html)
 
+[NextCloud Server Tunning](https://docs.nextcloud.com/server/25/admin_manual/installation/server_tuning.html)
+
+[NextCloud Enable Opcache](https://docs.nextcloud.com/server/25/admin_manual/installation/server_tuning.html#enable-php-opcache)
+
+[Country Codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Decoding_table)
+
 # 🐛 Bugfix
 
 # 🔧 Configuration
