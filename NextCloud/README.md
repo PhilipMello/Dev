@@ -45,7 +45,11 @@
 
 # Tools & Apps
 
-[OwnCloud Music App]("https://github.com/owncloud/music/wiki/Ampache" "Streaming Music App for NextCloud")
+## Android App
+[Android OwnCloud Music App]("https://github.com/owncloud/music/wiki/Ampache" "Streaming Music App for Android")
+
+## iOS App
+[iOS OwnCloud Music App]("https://github.com/owncloud/ios-app" "Streaming Music App for iOS")
 
 ---
 
