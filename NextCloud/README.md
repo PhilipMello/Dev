@@ -40,3 +40,17 @@
 [php-fpm](https://github.com/PhilipMello/Dev/tree/main/NextCloud/php-fpm)
 
 [NextCloud data_folder](https://github.com/PhilipMello/Dev/tree/main/NextCloud/data_folder)
+
+---
+
+# 💡How-To
+
+Sync files fast using CMD
+
+```
+scp -rp Uploads user@192.168.1.11:/mnt/Cloud/data/user/files/Uploads
+```
+
+```
+scp -rp Uploads user@https://your-nextcloud.com:/index.php/apps/files/?dir=/Uploads
+```
