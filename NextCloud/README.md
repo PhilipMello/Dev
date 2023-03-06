@@ -55,6 +55,8 @@
 ## Radio
 
 ### [Radio Browser](https://www.radio-browser.info/)
+[All Stations](https://www.radio-browser.info/search?page=1)<br>
+[Veryfied Stations](https://www.radio-browser.info/search?page=1&order=clickcount&reverse=true&hidebroken=true&has_extended_info=true)
 
 ---
 
