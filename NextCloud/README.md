@@ -43,6 +43,12 @@
 
 ---
 
+# Tools & Apps
+
+[OwnCloud Music App]("https://github.com/owncloud/music/wiki/Ampache" "Streaming Music App for NextCloud")
+
+---
+
 # 💡How-To
 
 Sync files fast using CMD
