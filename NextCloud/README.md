@@ -62,6 +62,8 @@
 
 # 💡How-To
 
+[Youtube Video](https://www.youtube.com/watch?v=3v5T5czXTcU&t=97s)
+
 Sync files fast using CMD
 
 ```
