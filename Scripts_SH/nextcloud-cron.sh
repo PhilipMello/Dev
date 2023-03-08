@@ -12,7 +12,7 @@
 # --------------------------------------------------------------
 
 # nextcloudcron.service
-nextcloudcron.service="
+service="
 [Unit]
 Description=Nextcloud cron.php job
 
@@ -22,7 +22,7 @@ ExecStart=/usr/bin/php -f /var/www/nextcloud/cron.php
 KillMode=process
 "
 # nextcloudcron.timer
-nextcloudcron.timer="
+timer="
 [Unit]
 Description=Run Nextcloud cron.php every 5 minutes
 
@@ -36,8 +36,8 @@ WantedBy=timers.target
 "
 
 # Creating files
-echo "nextcloudcron.service" > /etc/systemd/system/nextcloudcron.service || chmod +x nextcloudcron.service
-echo "nextcloudcron.timer" > /etc/systemd/system/nextcloudcron.timer || chmod +x nextcloudcron.timer
+echo "$service" > /etc/systemd/system/nextcloudcron.service || chmod +x nextcloudcron.service
+echo "$timer" > /etc/systemd/system/nextcloudcron.timer || chmod +x nextcloudcron.timer
 
 # Enabling nextcloudcron.timer service
 systemctl enable --now nextcloudcron.timer
