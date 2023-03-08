@@ -47,3 +47,9 @@ Now all that is left is to start and enable the timer by running this command:
 ```
 systemctl enable --now nextcloudcron.timer
 ```
+
+Verifying the service:
+
+```
+service nextcloudcron.timer status
+```
