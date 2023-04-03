@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
 
+# Author
+author="Philip Mello <philipmello@live.com>"
+
+# Version
+version="0.2"
+
+# License
+license="MIT"
+
 # Dev Editor
 editor="nano"
 
@@ -11,10 +20,10 @@ header="#!/usr/bin/env bash
 # --------------------------------------------------------------
 # Script     : Script Creator
 # Description: Script to create Scripts
-# Version    : 0.1
+# Version    : $version
 # Date       : $current_date
-# Author     : Philip Mello <philipmello@live.com>
-# License    : MIT
+# Author     : $author
+# License    : $license
 # --------------------------------------------------------------
 # How to use: Type ./create-script.sh NAME-OF-SCRIPT (WITH EXTENSION OR NOT)
 # Exemples: ./create-script.sh my-new-file.sh OR ./create-script.sh my-new.file.txt
